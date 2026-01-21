@@ -1,2 +1,2 @@
-beginner/README.md
+Beginner/README.md
 # Beginner Cloud & Security Labs
